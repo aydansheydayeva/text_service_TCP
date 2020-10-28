@@ -1,4 +1,4 @@
-# About "text_service.py" console app
+# About "text_service.py" app
 
 Client-server CLI based application where client passes 2 files to the server that, in turn, processes file contents according to 2 modes and returns processed data inside the new txt file to client.  
 
